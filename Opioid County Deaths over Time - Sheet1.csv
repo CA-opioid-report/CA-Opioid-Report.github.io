@@ -1,0 +1,661 @@
+County,Rate,95% LCL,95% UCL,Count,Stability,Year
+Del Norte,74.2,44.26,118.63,20,Rate is stable,2022
+Humboldt,61.66,48.35,77.81,76,Rate is stable,2022
+Lake,55.46,38.17,79.47,35,Rate is stable,2022
+Mendocino,54.91,39.16,75.17,41,Rate is stable,2022
+Mendocino,54.7,39.61,74.09,47,Rate is stable,2021
+Trinity,53.52,18.16,133.16,5,Rate may be unstable,2021
+Siskiyou,53.33,31.83,85.78,19,Rate is stable,2022
+Alpine,51.55,56.18,"1,038.83",1,Rate may be unstable,2021
+Lake,49.84,33.03,73.45,31,Rate is stable,2021
+San Francisco,44.51,40.39,49.1,443,Rate is stable,2020
+Modoc,43.66,15.87,131.8,3,"Rate is unstable, interpret with caution",2012
+San Francisco,41.99,38.08,46.31,435,Rate is stable,2021
+Inyo,41.59,22.3,98.28,5,Rate may be unstable,2021
+Lassen,37.16,20.23,68.05,13,Rate is stable,2022
+Humboldt,36.53,26.23,49.71,44,Rate is stable,2021
+Tehama,34.34,20.32,55.47,18,Rate is stable,2022
+Kern,34.22,30.43,38.38,308,Rate is stable,2022
+Nevada,34.09,22.38,50.33,30,Rate is stable,2020
+San Luis Obispo,33.92,26.66,42.73,83,Rate is stable,2022
+San Francisco,33.65,30.21,37.5,357,Rate is stable,2022
+Butte,33.23,25.58,42.62,69,Rate is stable,2022
+Mariposa,32.86,18.2,86.5,5,Rate may be unstable,2014
+Lake,32.46,19.98,51.42,23,Rate is stable,2019
+Nevada,32.02,20.93,47.83,28,Rate is stable,2021
+Plumas,31.3,15.78,84.28,4,Rate may be unstable,2015
+Plumas,31.18,21.23,77.13,6,Rate is stable,2013
+Kern,31.02,27.39,35.05,274,Rate is stable,2021
+Shasta,30.89,22.81,41.25,47,Rate is stable,2021
+Shasta,29.89,21.91,40.12,48,Rate is stable,2022
+Lake,29.81,17.41,49.55,19,Rate is stable,2013
+Santa Cruz,28.92,22.34,37.01,67,Rate is stable,2022
+Butte,28.8,21.89,37.45,62,Rate is stable,2021
+Yuba,27.91,25.08,41.99,22,Rate is stable,2022
+San Luis Obispo,27.88,21.43,35.84,71,Rate is stable,2021
+Tuolumne,27.68,15.08,48.65,15,Rate is stable,2015
+San Francisco,26.96,23.85,30.54,279,Rate is stable,2019
+Lake,26.92,22.76,44.04,19,Rate is stable,2015
+Lake,26.11,15.2,43.48,17,Rate is stable,2020
+Ventura,26.06,22.61,29.93,215,Rate is stable,2021
+Mendocino,25.84,15.9,40.36,20,Rate is stable,2020
+Sonoma,25.57,21.1,30.83,122,Rate is stable,2021
+Lake,25.39,13.96,43.72,17,Rate is stable,2014
+Stanislaus,24.52,20.42,29.27,130,Rate is stable,2022
+Ventura,24.42,21.02,28.25,193,Rate is stable,2022
+Kern,24.32,21.18,27.83,222,Rate is stable,2020
+Orange,24.07,22.34,25.92,746,Rate is stable,2021
+Sonoma,23.69,19.39,28.75,111,Rate is stable,2020
+Trinity,23.68,45.7,79.94,3,Rate may be unstable,2013
+Modoc,23.58,16.56,98.62,3,Rate may be unstable,2017
+Riverside,23.56,21.63,25.64,572,Rate is stable,2022
+Lassen,23.47,9.82,51.53,7,Rate may be unstable,2019
+Modoc,23.44,12.78,105.65,2,"Rate is unstable, interpret with caution",2021
+Mariposa,23.4,11.42,70.59,4,Rate may be unstable,2019
+Yuba,23.24,13.52,37.81,17,Rate is stable,2021
+Tuolumne,23.16,11.29,44.61,10,Rate may be unstable,2021
+Inyo,22.91,8.33,69.17,3,"Rate is unstable, interpret with caution",2016
+San Diego,22.83,21.17,24.59,726,Rate is stable,2022
+Plumas,22.8,11.55,67.12,5,Rate may be unstable,2012
+Glenn,22.76,8.45,52.34,6,Rate may be unstable,2022
+Lake,22.7,13.57,38.19,21,Rate is stable,2018
+Sutter,22.68,14.35,34.7,23,Rate is stable,2022
+Inyo,22.55,19,67.08,4,Rate may be unstable,2022
+San Diego,22.45,20.82,24.17,729,Rate is stable,2021
+Humboldt,22.35,15.39,32.01,33,Rate is stable,2016
+Lake,22.32,12.76,38.81,15,Rate is stable,2012
+Inyo,22.03,8,66.28,3,"Rate is unstable, interpret with caution",2020
+Siskiyou,21.98,10.14,44.94,10,Rate may be unstable,2016
+Tuolumne,21.71,9.59,43.47,10,Rate may be unstable,2022
+Del Norte,21.4,8.57,47.86,7,Rate may be unstable,2013
+Mendocino,21.13,12.29,34.56,18,Rate is stable,2019
+Humboldt,21.03,13.8,31.04,28,Rate is stable,2017
+Sutter,20.87,13.16,32.27,21,Rate is stable,2021
+Orange,20.62,19.01,22.34,634,Rate is stable,2022
+San Luis Obispo,20.56,15.33,27.21,57,Rate is stable,2020
+Plumas,20.52,15.38,65.38,4,Rate may be unstable,2014
+Riverside,20.37,18.58,22.3,499,Rate is stable,2021
+Sonoma,20.34,16.34,25.18,95,Rate is stable,2022
+El Dorado,20.27,14.01,28.95,33,Rate is stable,2021
+El Dorado,20.11,13.85,28.62,36,Rate is stable,2022
+Lassen,19.86,8.39,45.46,7,Rate may be unstable,2016
+Humboldt,19.84,13.12,29.34,29,Rate is stable,2014
+Amador,19.73,12.64,45.03,7,Rate may be unstable,2021
+Mariposa,19.69,15.1,67.52,3,Rate may be unstable,2021
+Trinity,19.65,10.71,82.27,2,Rate may be unstable,2019
+Stanislaus,19.63,16.02,23.88,108,Rate is stable,2021
+Siskiyou,19.37,12.09,42.02,7,Rate may be unstable,2020
+Mendocino,19.34,11.76,31.41,17,Rate is stable,2017
+Imperial,19.07,13.08,27.21,32,Rate is stable,2020
+Colusa,19.05,8.93,51.81,4,Rate may be unstable,2022
+Humboldt,19.05,12.16,28.77,24,Rate is stable,2019
+San Benito,18.73,9.46,34.34,11,Rate may be unstable,2022
+Plumas,18.66,12.86,64.96,3,Rate may be unstable,2022
+California,18.66,18.23,19.1,7385,Rate is stable,2022
+San Joaquin,18.66,15.67,22.11,143,Rate is stable,2021
+Humboldt,18.34,11.56,28.01,24,Rate is stable,2020
+Marin,18.16,13.01,25.15,47,Rate is stable,2021
+Lassen,18.13,8.35,41.99,7,Rate may be unstable,2020
+Plumas,18.11,9.87,64.44,2,"Rate is unstable, interpret with caution",2018
+Humboldt,18.05,11.57,27.35,26,Rate is stable,2015
+Nevada,18.03,11.12,29.44,21,Rate is stable,2022
+California,18.03,17.6,18.46,7175,Rate is stable,2021
+Calaveras,17.97,7.55,39.84,9,Rate may be unstable,2015
+Inyo,17.77,6.46,59.3,3,Rate may be unstable,2018
+Solano,17.43,13.53,22.16,71,Rate is stable,2022
+San Bernardino,17.36,15.63,19.24,380,Rate is stable,2022
+Calaveras,17.34,6.74,41.31,8,Rate may be unstable,2021
+Mendocino,17.34,9.65,29.59,17,Rate is stable,2016
+Siskiyou,17.31,7.28,38.56,8,Rate may be unstable,2015
+Ventura,17.07,14.36,20.2,141,Rate is stable,2020
+Lake,17.02,9.64,31.42,13,Rate is stable,2017
+Del Norte,16.98,5.43,44.04,5,Rate may be unstable,2021
+Mendocino,16.96,9.31,29.21,15,Rate is stable,2014
+Siskiyou,16.82,6.92,38.02,8,Rate may be unstable,2021
+Los Angeles,16.53,15.73,17.35,1690,Rate is stable,2022
+Calaveras,16.5,9.85,38.76,6,Rate may be unstable,2016
+Shasta,16.25,10.87,23.91,27,Rate is stable,2020
+Contra Costa,16.14,13.84,18.75,183,Rate is stable,2021
+San Bernardino,16.05,14.39,17.86,354,Rate is stable,2021
+Riverside,16.05,14.5,17.74,400,Rate is stable,2020
+Contra Costa,15.91,13.64,18.48,183,Rate is stable,2022
+Humboldt,15.8,10.03,24.48,22,Rate is stable,2012
+Marin,15.79,10.98,22.49,39,Rate is stable,2022
+Colusa,15.65,11.94,47.96,3,Rate may be unstable,2019
+Amador,15.61,4.76,40.61,5,Rate may be unstable,2016
+Napa,15.6,9.9,24.33,21,Rate is stable,2022
+Santa Cruz,15.59,10.99,21.64,39,Rate is stable,2021
+Santa Cruz,15.53,11.16,21.27,44,Rate is stable,2014
+Inyo,15.52,11.76,52.87,3,Rate may be unstable,2013
+Orange,15.45,14.11,16.89,503,Rate is stable,2020
+San Benito,15.43,7.44,29.73,10,Rate may be unstable,2021
+Calaveras,15.38,8.34,38.03,6,Rate may be unstable,2012
+Los Angeles,15.35,14.59,16.14,1573,Rate is stable,2021
+Calaveras,15.14,6.44,41.36,4,Rate may be unstable,2022
+San Diego,15.14,13.87,16.52,528,Rate is stable,2020
+Mendocino,15.05,7.67,27.15,12,Rate is stable,2015
+San Francisco,15.01,12.64,17.88,147,Rate is stable,2018
+Sacramento,14.9,13.02,16.98,236,Rate is stable,2022
+Glenn,14.87,11.22,43.18,3,Rate may be unstable,2020
+Amador,14.75,10.11,37.18,8,Rate is stable,2014
+Colusa,14.72,5.35,47.28,3,"Rate is unstable, interpret with caution",2020
+Lassen,14.67,7.69,38.34,5,Rate may be unstable,2013
+Amador,14.55,5.2,38.4,5,Rate may be unstable,2022
+Inyo,14.47,24.96,53.55,2,Rate may be unstable,2019
+San Joaquin,14.45,11.86,17.49,113,Rate is stable,2022
+Siskiyou,14.37,13.6,35.44,5,Rate may be unstable,2012
+Sacramento,14.29,12.44,16.35,223,Rate is stable,2021
+Glenn,14.25,6.32,39.74,4,Rate may be unstable,2021
+Modoc,14.2,15.47,87.91,1,Rate may be unstable,2014
+Marin,14.06,9.4,20.44,33,Rate is stable,2020
+Shasta,14.06,9.07,21.43,24,Rate is stable,2017
+Tuolumne,13.99,7.91,32.01,6,Rate may be unstable,2012
+Amador,13.98,7.86,37.49,6,Rate may be unstable,2012
+Shasta,13.96,8.71,21.63,24,Rate is stable,2012
+Lassen,13.91,13.13,37.21,5,Rate may be unstable,2017
+Merced,13.84,9.8,19.12,39,Rate is stable,2022
+Lassen,13.82,6.34,39.13,4,Rate may be unstable,2021
+Mendocino,13.7,10.61,24.14,14,Rate is stable,2018
+Tuolumne,13.69,8.27,30.44,7,Rate may be unstable,2014
+Placer,13.63,10.2,18.02,55,Rate is stable,2022
+Imperial,13.56,8.74,20.45,24,Rate is stable,2022
+California,13.54,13.18,13.91,5502,Rate is stable,2020
+Stanislaus,13.5,10.64,17,74,Rate is stable,2020
+Lassen,13.46,7.2,35.74,5,Rate may be unstable,2012
+Humboldt,13.42,8.11,21.63,20,Rate is stable,2013
+Trinity,13.4,7.3,65.18,2,"Rate is unstable, interpret with caution",2016
+Lassen,13.34,7.26,36.7,5,Rate may be unstable,2014
+Fresno,13.3,11.06,15.88,129,Rate is stable,2022
+Alameda,13.24,11.56,15.13,229,Rate is stable,2022
+Yuba,13.15,9.11,25.41,9,Rate is stable,2017
+Sonoma,13.09,10.02,16.89,65,Rate is stable,2019
+Amador,13.07,6.17,35.58,4,Rate may be unstable,2020
+San Bernardino,12.95,11.47,14.57,288,Rate is stable,2020
+Placer,12.91,9.56,17.24,50,Rate is stable,2021
+Solano,12.91,9.74,16.89,58,Rate is stable,2021
+Tulare,12.87,9.83,16.65,57,Rate is stable,2021
+Tehama,12.84,8.29,27.05,8,Rate may be unstable,2021
+Modoc,12.84,14,84.32,1,"Rate is unstable, interpret with caution",2013
+Santa Barbara,12.79,9.67,16.71,58,Rate is stable,2021
+Kern,12.79,10.54,15.43,117,Rate is stable,2019
+Imperial,12.65,7.77,19.75,20,Rate is stable,2015
+Contra Costa,12.61,10.61,14.91,144,Rate is stable,2020
+Del Norte,12.56,5.64,37.37,4,Rate may be unstable,2017
+Modoc,12.51,13.63,91.81,1,Rate may be unstable,2022
+Lake,12.42,5.57,26.61,10,Rate may be unstable,2016
+Los Angeles,12.4,11.73,13.1,1300,Rate is stable,2020
+Madera,12.38,7.44,19.75,18,Rate is stable,2021
+Santa Cruz,12.32,8.48,17.54,35,Rate is stable,2016
+Tulare,12.3,9.3,16.03,57,Rate is stable,2022
+Yolo,12.22,7.92,18.55,26,Rate is stable,2022
+Placer,12.22,8.86,16.5,45,Rate is stable,2020
+Shasta,11.91,7.53,18.61,22,Rate is stable,2014
+Lassen,11.9,5.45,35.36,4,Rate may be unstable,2018
+Shasta,11.85,7.38,18.74,21,Rate is stable,2013
+Plumas,11.77,18.29,52.82,2,Rate may be unstable,2019
+El Dorado,11.72,7.27,18.37,22,Rate is stable,2020
+Trinity,11.66,12.71,69.52,1,"Rate is unstable, interpret with caution",2022
+Madera,11.56,7.09,18.48,18,Rate is stable,2012
+Butte,11.54,7.52,17.37,26,Rate is stable,2020
+San Mateo,11.37,9.02,14.2,84,Rate is stable,2021
+Alameda,11.37,9.84,13.09,203,Rate is stable,2021
+Tuolumne,11.35,6.75,26.84,7,Rate may be unstable,2016
+Kings,11.29,6.66,18.54,17,Rate is stable,2022
+Humboldt,11.17,6.5,18.76,16,Rate is stable,2018
+Glenn,11.17,8.63,35.22,3,Rate may be unstable,2014
+Ventura,11.14,8.97,13.72,95,Rate is stable,2018
+Shasta,11.11,6.49,18.12,18,Rate is stable,2019
+San Joaquin,11.1,8.88,13.77,85,Rate is stable,2020
+Plumas,11.05,6.03,51.87,2,"Rate is unstable, interpret with caution",2021
+Del Norte,11.01,8.13,35.1,3,Rate may be unstable,2016
+Colusa,10.85,5.91,40.4,2,Rate may be unstable,2013
+Yuba,10.82,7.52,21.64,8,Rate is stable,2019
+Ventura,10.75,8.62,13.28,91,Rate is stable,2012
+Santa Cruz,10.68,7.12,15.63,29,Rate is stable,2015
+San Mateo,10.65,8.4,13.38,81,Rate is stable,2022
+Yuba,10.64,7.41,20.99,9,Rate is stable,2020
+Mendocino,10.61,5.43,20.34,11,Rate may be unstable,2013
+Santa Barbara,10.51,7.64,14.17,46,Rate is stable,2022
+Lassen,10.51,4.78,33,4,Rate may be unstable,2015
+Santa Cruz,10.47,6.91,15.44,29,Rate is stable,2019
+Kern,10.46,8.41,12.92,92,Rate is stable,2018
+Nevada,10.45,7.2,20.34,10,Rate is stable,2019
+Napa,10.44,5.69,18.25,14,Rate is stable,2021
+Sutter,10.35,7.75,18.88,11,Rate is stable,2020
+Del Norte,10.21,7.44,33.46,3,Rate may be unstable,2015
+Imperial,10.07,8.34,16.29,16,Rate is stable,2018
+San Mateo,10.06,7.96,12.61,81,Rate is stable,2020
+Ventura,10.05,8.03,12.48,89,Rate is stable,2019
+Kings,10.04,5.64,17.09,15,Rate is stable,2021
+Merced,9.98,6.79,14.48,29,Rate is stable,2020
+Siskiyou,9.97,7.54,29.61,4,Rate may be unstable,2017
+Nevada,9.85,6.47,20.07,8,Rate may be unstable,2016
+San Luis Obispo,9.85,6.43,14.77,28,Rate is stable,2015
+Merced,9.82,6.25,14.92,23,Rate is stable,2016
+Ventura,9.8,7.8,12.21,85,Rate is stable,2017
+Riverside,9.77,8.57,11.11,245,Rate is stable,2019
+Calaveras,9.71,7.46,29.4,3,Rate may be unstable,2018
+Santa Cruz,9.66,6.44,14.39,26,Rate is stable,2012
+Santa Cruz,9.65,6.2,14.55,26,Rate is stable,2020
+San Francisco,9.62,7.78,11.98,99,Rate is stable,2017
+San Joaquin,9.61,7.46,12.26,69,Rate is stable,2014
+Imperial,9.59,5.34,16.12,15,Rate is stable,2021
+Merced,9.58,6.22,14.27,25,Rate is stable,2021
+San Francisco,9.56,7.7,11.95,95,Rate is stable,2015
+Santa Cruz,9.48,6.31,14.09,27,Rate is stable,2013
+San Benito,9.47,3.65,21.86,6,Rate may be unstable,2017
+Tuolumne,9.47,4.37,25.21,5,Rate may be unstable,2017
+Marin,9.27,5.66,14.6,22,Rate is stable,2019
+Sonoma,9.23,6.64,12.58,43,Rate is stable,2018
+San Francisco,9.2,7.39,11.52,94,Rate is stable,2016
+San Joaquin,9.18,7.12,11.71,69,Rate is stable,2017
+Nevada,9.17,3.82,19.4,8,Rate may be unstable,2013
+Del Norte,9.01,6.53,31.14,3,Rate may be unstable,2020
+Butte,9.01,5.28,14.8,16,Rate is stable,2012
+San Joaquin,8.99,6.9,11.59,64,Rate is stable,2013
+Shasta,8.97,4.87,15.54,15,Rate is stable,2015
+San Diego,8.92,7.94,9.99,314,Rate is stable,2019
+Fresno,8.85,7.1,10.94,91,Rate is stable,2021
+Sutter,8.72,3.8,17.93,8,Rate may be unstable,2018
+Solano,8.71,6.22,12.02,39,Rate is stable,2020
+Shasta,8.64,5.08,14.55,17,Rate is stable,2016
+San Luis Obispo,8.63,5.3,13.54,21,Rate is stable,2013
+Santa Clara,8.6,7.36,10.01,176,Rate is stable,2022
+Kern,8.6,6.74,10.9,75,Rate is stable,2015
+Madera,8.58,4.46,15.22,12,Rate is stable,2013
+Stanislaus,8.57,6.26,11.54,46,Rate is stable,2019
+San Francisco,8.57,6.87,10.8,89,Rate is stable,2014
+Mono,8.54,9.31,82.34,1,"Rate is unstable, interpret with caution",2022
+Tuolumne,8.54,4.89,22.72,6,Rate may be unstable,2013
+San Benito,8.54,4.51,22.32,5,Rate may be unstable,2013
+Santa Cruz,8.49,5.36,13.09,23,Rate is stable,2018
+Orange,8.47,7.51,9.54,289,Rate is stable,2016
+Kern,8.45,6.65,10.66,75,Rate is stable,2017
+Kings,8.4,4.48,15.31,12,Rate is stable,2014
+Merced,8.35,5.21,13.02,20,Rate is stable,2015
+Madera,8.33,4.45,14.67,13,Rate is stable,2019
+Kern,8.33,6.54,10.55,73,Rate is stable,2014
+Sutter,8.31,3.52,17.44,7,Rate may be unstable,2013
+Mariposa,8.27,4.5,51.22,2,Rate may be unstable,2022
+Tulare,8.22,5.88,11.34,39,Rate is stable,2020
+Orange,8.13,7.18,9.19,272,Rate is stable,2019
+San Luis Obispo,8.13,5.18,12.63,21,Rate is stable,2019
+Alameda,8.09,6.81,9.57,144,Rate is stable,2020
+Yuba,8.08,4.14,19.46,5,Rate may be unstable,2016
+San Benito,7.98,4.27,19.37,5,Rate may be unstable,2019
+Mariposa,7.91,8.62,50.14,1,"Rate is unstable, interpret with caution",2012
+California,7.9,7.63,8.19,3244,Rate is stable,2019
+San Mateo,7.87,6.05,10.13,65,Rate is stable,2019
+Contra Costa,7.86,6.31,9.7,91,Rate is stable,2019
+San Diego,7.83,6.91,8.86,264,Rate is stable,2012
+Amador,7.82,3.89,26.28,5,Rate may be unstable,2019
+San Diego,7.81,6.91,8.8,284,Rate is stable,2017
+Calaveras,7.79,7.15,25.55,4,Rate may be unstable,2019
+San Luis Obispo,7.76,4.76,12.31,21,Rate is stable,2017
+Merced,7.74,4.77,12.11,20,Rate is stable,2019
+Santa Clara,7.73,6.54,9.09,154,Rate is stable,2021
+Santa Barbara,7.7,5.31,10.96,34,Rate is stable,2015
+San Francisco,7.66,6.01,9.87,75,Rate is stable,2013
+Fresno,7.63,5.92,9.71,70,Rate is stable,2014
+San Diego,7.63,6.72,8.64,260,Rate is stable,2013
+Ventura,7.59,5.86,9.74,65,Rate is stable,2013
+Butte,7.57,4.36,12.71,17,Rate is stable,2017
+Orange,7.56,6.64,8.58,252,Rate is stable,2014
+Orange,7.5,6.59,8.51,255,Rate is stable,2017
+Orange,7.49,6.57,8.51,245,Rate is stable,2013
+Santa Barbara,7.48,5.04,10.85,32,Rate is stable,2017
+Butte,7.48,4.36,12.44,18,Rate is stable,2015
+Trinity,7.47,12.66,57.63,2,Rate may be unstable,2018
+Orange,7.46,6.55,8.47,252,Rate is stable,2018
+Sacramento,7.39,6.11,8.88,119,Rate is stable,2019
+Placer,7.39,4.94,10.74,30,Rate is stable,2019
+San Diego,7.39,6.51,8.36,268,Rate is stable,2018
+Orange,7.39,6.49,8.39,251,Rate is stable,2015
+Santa Barbara,7.38,4.98,10.69,32,Rate is stable,2016
+Kings,7.36,3.66,13.78,10,Rate may be unstable,2020
+Imperial,7.34,3.77,13.2,12,Rate is stable,2016
+Ventura,7.34,5.62,9.48,64,Rate is stable,2014
+Solano,7.32,5.02,10.43,34,Rate is stable,2019
+Merced,7.3,4.48,11.51,20,Rate is stable,2018
+Fresno,7.28,5.67,9.25,70,Rate is stable,2016
+Del Norte,7.25,3.95,29.32,2,"Rate is unstable, interpret with caution",2014
+Modoc,7.16,7.8,75.14,1,Rate may be unstable,2015
+Sacramento,7.16,5.87,8.66,111,Rate is stable,2013
+San Diego,7.1,6.24,8.06,253,Rate is stable,2016
+Santa Clara,7.09,5.97,8.39,143,Rate is stable,2020
+Santa Barbara,7.09,4.84,10.21,33,Rate is stable,2018
+Butte,7.08,4,12.08,17,Rate is stable,2016
+Imperial,7.02,3.68,12.67,12,Rate is stable,2019
+Fresno,7.01,5.46,8.9,71,Rate is stable,2020
+Calaveras,7,12.01,24.71,2,Rate may be unstable,2020
+San Luis Obispo,6.96,4.27,11.18,21,Rate is stable,2016
+Trinity,6.95,11.85,54.6,2,Rate may be unstable,2015
+San Diego,6.95,6.1,7.91,245,Rate is stable,2014
+San Diego,6.94,6.08,7.89,248,Rate is stable,2015
+Glenn,6.91,11.71,28.79,2,Rate may be unstable,2013
+Mono,6.89,7.51,49.59,1,"Rate is unstable, interpret with caution",2016
+Monterey,6.82,4.68,9.73,31,Rate is stable,2022
+Contra Costa,6.82,5.4,8.51,82,Rate is stable,2018
+Sacramento,6.81,5.58,8.26,107,Rate is stable,2020
+Colusa,6.8,3.71,34.34,2,"Rate is unstable, interpret with caution",2016
+San Joaquin,6.8,5.09,8.97,53,Rate is stable,2016
+Fresno,6.8,5.2,8.79,62,Rate is stable,2015
+Madera,6.79,3.65,12.24,12,Rate is stable,2022
+Sonoma,6.79,4.71,9.6,37,Rate is stable,2015
+Madera,6.77,3.25,12.79,10,Rate may be unstable,2014
+Imperial,6.77,3.62,12.09,12,Rate is stable,2014
+Imperial,6.75,3.37,12.36,11,Rate may be unstable,2013
+Los Angeles,6.7,6.21,7.22,707,Rate is stable,2019
+Siskiyou,6.63,4.74,24.39,3,Rate may be unstable,2014
+Santa Cruz,6.59,3.94,10.7,18,Rate is stable,2017
+Marin,6.59,3.71,11.21,15,Rate is stable,2017
+San Luis Obispo,6.58,3.87,10.77,18,Rate is stable,2014
+Butte,6.55,3.71,11.2,17,Rate is stable,2018
+Orange,6.53,5.68,7.49,214,Rate is stable,2012
+Merced,6.52,3.85,10.7,17,Rate is stable,2013
+Solano,6.51,4.33,9.51,29,Rate is stable,2014
+Madera,6.48,3.23,12.18,11,Rate may be unstable,2016
+Yolo,6.47,3.48,11.41,13,Rate is stable,2015
+San Luis Obispo,6.35,3.69,10.52,18,Rate is stable,2012
+Marin,6.34,3.4,11.08,14,Rate is stable,2016
+San Benito,6.33,1.72,17.12,4,Rate may be unstable,2020
+Plumas,6.28,6.84,43.77,1,"Rate is unstable, interpret with caution",2020
+Nevada,6.28,3.87,14.6,7,Rate may be unstable,2018
+Amador,6.26,2.27,27.05,3,"Rate is unstable, interpret with caution",2013
+Riverside,6.18,5.21,7.29,146,Rate is stable,2014
+El Dorado,6.15,2.89,11.88,9,Rate may be unstable,2016
+Yuba,6.14,2.81,16.64,4,Rate may be unstable,2015
+Colusa,6.14,6.7,34.5,1,"Rate is unstable, interpret with caution",2012
+San Joaquin,6.12,4.47,8.23,46,Rate is stable,2015
+San Bernardino,6.1,5.09,7.27,133,Rate is stable,2019
+Monterey,6.09,3.96,9.13,26,Rate is stable,2013
+Sonoma,5.99,4.04,8.69,30,Rate is stable,2017
+Kern,5.99,4.51,7.89,54,Rate is stable,2016
+Siskiyou,5.98,3.25,23.82,2,"Rate is unstable, interpret with caution",2019
+Stanislaus,5.96,4.19,8.37,35,Rate is stable,2018
+San Francisco,5.95,4.54,7.93,58,Rate is stable,2012
+Kings,5.94,2.79,12.18,9,Rate may be unstable,2013
+Monterey,5.91,3.88,8.83,25,Rate is stable,2012
+Merced,5.89,3.38,10.04,14,Rate is stable,2014
+Napa,5.87,3.83,11.7,8,Rate may be unstable,2015
+Monterey,5.85,3.77,8.73,25,Rate is stable,2020
+Butte,5.83,2.94,10.66,12,Rate is stable,2019
+California,5.82,5.59,6.06,2428,Rate is stable,2018
+El Dorado,5.8,2.67,11.27,10,Rate may be unstable,2019
+San Joaquin,5.8,4.21,7.94,40,Rate is stable,2012
+Butte,5.79,4.38,10.36,14,Rate is stable,2014
+Alameda,5.75,4.69,7,103,Rate is stable,2019
+Riverside,5.74,4.83,6.79,144,Rate is stable,2018
+Sonoma,5.73,3.85,8.32,31,Rate is stable,2014
+Madera,5.71,4.12,10.88,10,Rate is stable,2015
+Riverside,5.67,4.76,6.73,140,Rate is stable,2017
+Ventura,5.64,4.21,7.47,53,Rate is stable,2015
+Monterey,5.61,3.69,8.28,27,Rate is stable,2021
+Riverside,5.55,4.66,6.58,135,Rate is stable,2015
+Santa Barbara,5.54,3.58,8.37,26,Rate is stable,2019
+Riverside,5.53,4.62,6.59,129,Rate is stable,2013
+Mariposa,5.51,6.01,46.39,1,"Rate is unstable, interpret with caution",2017
+Nevada,5.5,3,13.73,6,Rate may be unstable,2017
+Marin,5.46,2.96,9.69,14,Rate is stable,2012
+Shasta,5.43,2.73,10.69,10,Rate may be unstable,2018
+Kern,5.39,3.92,7.33,45,Rate is stable,2013
+Stanislaus,5.37,3.58,7.82,29,Rate is stable,2015
+Fresno,5.37,3.98,7.16,50,Rate is stable,2013
+Yuba,5.36,2.54,14.71,4,Rate may be unstable,2018
+Riverside,5.32,4.41,6.38,120,Rate is stable,2012
+San Joaquin,5.3,3.76,7.32,39,Rate is stable,2019
+San Benito,5.23,3.94,17.02,3,Rate may be unstable,2015
+Santa Barbara,5.23,3.31,8.04,22,Rate is stable,2014
+California,5.22,5,5.45,2194,Rate is stable,2017
+Kern,5.22,3.86,7.05,45,Rate is stable,2012
+Napa,5.2,3.29,11.12,8,Rate may be unstable,2020
+Sonoma,5.09,3.4,7.56,25,Rate is stable,2012
+Nevada,5.07,1.56,13.57,5,Rate may be unstable,2014
+Ventura,5.01,3.62,6.82,44,Rate is stable,2016
+California,4.92,4.71,5.15,2024,Rate is stable,2014
+Sutter,4.91,2.57,12.33,5,Rate may be unstable,2012
+Madera,4.87,1.99,10.25,7,Rate may be unstable,2020
+California,4.87,4.66,5.09,2039,Rate is stable,2016
+Fresno,4.86,3.58,6.5,48,Rate is stable,2019
+San Mateo,4.83,3.47,6.65,39,Rate is stable,2018
+Sonoma,4.83,3.08,7.32,25,Rate is stable,2016
+Placer,4.79,2.85,7.74,18,Rate is stable,2017
+California,4.79,4.58,5.01,1992,Rate is stable,2015
+California,4.79,4.58,5.01,1934,Rate is stable,2013
+Fresno,4.79,3.45,6.54,42,Rate is stable,2012
+San Bernardino,4.77,3.89,5.82,106,Rate is stable,2018
+San Mateo,4.75,3.39,6.55,40,Rate is stable,2017
+Glenn,4.71,5.13,27.3,1,"Rate is unstable, interpret with caution",2018
+Solano,4.68,2.83,7.42,20,Rate is stable,2015
+Del Norte,4.67,5.09,25.95,1,"Rate is unstable, interpret with caution",2019
+Merced,4.67,2.51,8.27,13,Rate is stable,2017
+Sacramento,4.64,3.62,5.91,70,Rate is stable,2018
+Riverside,4.63,3.81,5.59,114,Rate is stable,2016
+Yolo,4.63,2.27,8.88,11,Rate may be unstable,2014
+Butte,4.63,3.24,8.98,10,Rate is stable,2013
+San Benito,4.63,3.49,16.88,3,Rate may be unstable,2012
+Calaveras,4.61,3.15,21.95,3,Rate may be unstable,2013
+San Benito,4.6,1.67,16.67,3,"Rate is unstable, interpret with caution",2014
+Fresno,4.58,3.35,6.17,47,Rate is stable,2017
+Del Norte,4.58,4.99,24.38,1,"Rate is unstable, interpret with caution",2012
+Los Angeles,4.57,4.17,4.99,497,Rate is stable,2018
+Imperial,4.57,2.02,9.38,8,Rate may be unstable,2017
+Mariposa,4.56,4.97,43.5,1,"Rate is unstable, interpret with caution",2015
+Santa Barbara,4.55,2.63,7.42,17,Rate is stable,2013
+Kings,4.52,2.83,10.08,6,Rate may be unstable,2017
+Contra Costa,4.52,3.37,5.97,52,Rate is stable,2014
+Monterey,4.46,2.75,6.98,20,Rate is stable,2019
+Yuba,4.46,8.98,13.63,3,Rate is stable,2014
+Nevada,4.42,4.33,12.03,6,Rate may be unstable,2012
+Contra Costa,4.38,3.27,5.79,53,Rate is stable,2016
+Sutter,4.36,3.76,11.63,4,Rate may be unstable,2016
+Contra Costa,4.35,3.25,5.74,52,Rate is stable,2017
+Trinity,4.33,4.72,52.46,1,"Rate is unstable, interpret with caution",2017
+California,4.3,4.09,4.51,1712,Rate is stable,2012
+San Luis Obispo,4.29,2.19,7.91,13,Rate is stable,2018
+Yolo,4.29,1.95,8.61,9,Rate may be unstable,2016
+Tulare,4.29,2.63,6.89,18,Rate is stable,2013
+Yolo,4.25,1.9,8.73,8,Rate may be unstable,2013
+Contra Costa,4.19,3.1,5.57,49,Rate is stable,2015
+Sacramento,4.17,3.2,5.36,64,Rate is stable,2012
+El Dorado,4.14,1.7,8.95,7,Rate may be unstable,2018
+Santa Clara,4.12,3.29,5.1,88,Rate is stable,2019
+Nevada,4.07,3.25,11.91,4,Rate may be unstable,2015
+Los Angeles,4.05,3.68,4.45,447,Rate is stable,2017
+Mariposa,4.05,4.42,43.2,1,Rate may be unstable,2013
+Yolo,4.04,2.03,7.91,10,Rate may be unstable,2020
+El Dorado,4.04,2.63,8.71,8,Rate may be unstable,2015
+Solano,4.02,2.39,6.51,19,Rate is stable,2018
+Tehama,3.99,8.05,13.96,3,Rate is stable,2012
+Madera,3.98,1.5,9.05,6,Rate may be unstable,2018
+Kings,3.98,2.35,9.37,6,Rate may be unstable,2016
+Napa,3.97,1.58,9.15,7,Rate may be unstable,2018
+Tulare,3.96,2.32,6.5,17,Rate is stable,2014
+Placer,3.94,2.21,6.7,15,Rate is stable,2015
+Yolo,3.91,1.81,7.91,9,Rate may be unstable,2019
+Marin,3.91,1.89,7.67,9,Rate may be unstable,2013
+Trinity,3.89,4.24,52.92,1,"Rate is unstable, interpret with caution",2014
+Mariposa,3.87,4.22,40.96,1,"Rate is unstable, interpret with caution",2020
+Yolo,3.86,1.69,8.13,8,Rate may be unstable,2012
+San Benito,3.85,2.1,14.64,2,Rate may be unstable,2016
+Sacramento,3.85,2.94,4.98,60,Rate is stable,2014
+Alameda,3.83,2.97,4.89,68,Rate is stable,2015
+Contra Costa,3.77,2.73,5.14,42,Rate is stable,2012
+Madera,3.75,1.45,8.69,6,Rate may be unstable,2017
+Sacramento,3.75,2.86,4.87,61,Rate is stable,2017
+Placer,3.75,2.1,6.41,14,Rate is stable,2016
+Amador,3.75,2.04,23.52,2,"Rate is unstable, interpret with caution",2015
+Napa,3.75,2.06,8.94,5,Rate may be unstable,2014
+Kings,3.67,1.42,9.14,6,Rate may be unstable,2012
+Siskiyou,3.62,1.97,19.7,2,Rate may be unstable,2018
+Contra Costa,3.58,2.58,4.89,42,Rate is stable,2013
+Napa,3.58,2.04,8.52,6,Rate may be unstable,2013
+Santa Barbara,3.54,2.06,5.94,16,Rate is stable,2020
+Tehama,3.52,1.92,14.13,2,"Rate is unstable, interpret with caution",2018
+Fresno,3.52,2.46,4.94,35,Rate is stable,2018
+Trinity,3.49,3.8,49.78,1,"Rate is unstable, interpret with caution",2012
+Tuolumne,3.48,5.29,15.7,2,Rate may be unstable,2020
+Monterey,3.48,2,5.88,15,Rate is stable,2014
+San Joaquin,3.47,2.27,5.16,26,Rate is stable,2018
+Marin,3.46,2.39,6.97,8,Rate is stable,2018
+Kings,3.42,1.82,8.69,5,Rate may be unstable,2015
+Placer,3.41,1.82,6.06,12,Rate is stable,2013
+Sacramento,3.4,2.55,4.46,55,Rate is stable,2016
+Glenn,3.39,3.69,24.6,1,Rate may be unstable,2016
+Tehama,3.38,1.84,13.78,2,"Rate is unstable, interpret with caution",2020
+Stanislaus,3.38,2.05,5.41,18,Rate is stable,2017
+Glenn,3.31,3.6,24.38,1,"Rate is unstable, interpret with caution",2019
+Solano,3.3,1.91,5.58,15,Rate is stable,2016
+Tehama,3.3,5.32,13.73,2,Rate may be unstable,2016
+El Dorado,3.3,1.83,7.9,6,Rate may be unstable,2014
+Santa Clara,3.24,2.52,4.13,68,Rate is stable,2016
+El Dorado,3.24,1.02,8.25,5,Rate may be unstable,2012
+Monterey,3.23,1.77,5.58,14,Rate is stable,2015
+San Benito,3.22,1.75,12.68,2,"Rate is unstable, interpret with caution",2018
+Sutter,3.22,2.4,9.97,3,Rate may be unstable,2014
+Los Angeles,3.21,2.88,3.57,353,Rate is stable,2016
+Inyo,3.19,3.48,36.51,1,"Rate is unstable, interpret with caution",2017
+Santa Clara,3.19,2.47,4.08,67,Rate is stable,2017
+Yolo,3.19,1.89,7.07,7,Rate may be unstable,2017
+Santa Clara,3.17,2.46,4.05,66,Rate is stable,2015
+Stanislaus,3.17,1.92,5.11,18,Rate is stable,2013
+Napa,3.15,2.71,8.12,4,Rate may be unstable,2017
+Santa Barbara,3.13,1.73,5.46,14,Rate is stable,2012
+Alameda,3.1,2.33,4.07,56,Rate is stable,2018
+Tehama,3.07,1.68,13.2,2,Rate may be unstable,2013
+Merced,3.05,1.35,6.37,8,Rate may be unstable,2012
+Tulare,3.01,1.63,5.23,14,Rate is stable,2016
+Colusa,2.98,3.24,27.64,1,"Rate is unstable, interpret with caution",2021
+Stanislaus,2.98,1.7,4.98,15,Rate is stable,2014
+Imperial,2.98,1.69,7.04,5,Rate may be unstable,2012
+San Mateo,2.97,1.9,4.5,25,Rate is stable,2015
+Alameda,2.91,2.16,3.87,51,Rate is stable,2014
+Amador,2.9,3.16,21.02,1,"Rate is unstable, interpret with caution",2018
+Tehama,2.87,2.19,12.23,3,Rate may be unstable,2015
+Mendocino,2.85,4.9,10.15,2,Rate may be unstable,2012
+Santa Clara,2.83,2.15,3.67,60,Rate is stable,2018
+Alameda,2.81,2.1,3.73,51,Rate is stable,2016
+Santa Clara,2.8,2.12,3.66,57,Rate is stable,2014
+San Bernardino,2.77,2.09,3.63,57,Rate is stable,2012
+Kings,2.76,1.31,7.61,4,Rate may be unstable,2018
+Los Angeles,2.75,2.44,3.09,292,Rate is stable,2013
+Amador,2.71,1.48,20.21,2,Rate may be unstable,2017
+Los Angeles,2.69,2.38,3.02,290,Rate is stable,2014
+Santa Clara,2.68,2.01,3.52,53,Rate is stable,2013
+Solano,2.67,1.4,4.83,12,Rate is stable,2013
+San Bernardino,2.66,2.01,3.49,57,Rate is stable,2014
+San Bernardino,2.65,2,3.47,57,Rate is stable,2017
+Los Angeles,2.65,2.35,2.98,283,Rate is stable,2015
+San Bernardino,2.65,2.01,3.47,57,Rate is stable,2013
+Tulare,2.59,1.98,4.63,11,Rate is stable,2017
+Glenn,2.59,2.82,22.84,1,Rate may be unstable,2015
+Stanislaus,2.56,1.42,4.41,14,Rate is stable,2016
+San Mateo,2.54,1.56,3.99,21,Rate is stable,2016
+Tulare,2.52,1.35,4.5,12,Rate is stable,2019
+Tuolumne,2.52,2.74,14.66,1,"Rate is unstable, interpret with caution",2018
+Sutter,2.5,0.91,8.79,3,Rate may be unstable,2019
+Tulare,2.5,1.27,4.63,11,Rate is stable,2015
+Alameda,2.48,1.8,3.38,44,Rate is stable,2013
+Stanislaus,2.48,1.32,4.35,13,Rate is stable,2012
+Solano,2.46,1.24,4.6,10,Rate may be unstable,2017
+Sacramento,2.44,1.74,3.37,40,Rate is stable,2015
+Monterey,2.42,1.27,4.42,12,Rate is stable,2016
+El Dorado,2.38,1.29,6.3,5,Rate may be unstable,2017
+San Mateo,2.38,1.46,3.79,20,Rate is stable,2013
+Sonoma,2.35,1.28,4.21,12,Rate is stable,2013
+Napa,2.29,1.64,7.05,3,Rate may be unstable,2019
+Placer,2.29,1.06,4.63,8,Rate may be unstable,2012
+Santa Clara,2.27,1.66,3.07,45,Rate is stable,2012
+San Mateo,2.26,1.38,3.6,20,Rate is stable,2014
+Los Angeles,2.25,1.97,2.56,237,Rate is stable,2012
+Mariposa,2.22,2.42,40.79,1,Rate may be unstable,2016
+Yolo,2.21,1.05,5.77,5,Rate may be unstable,2018
+Tehama,2.18,1.19,11.52,2,"Rate is unstable, interpret with caution",2014
+Yolo,2.15,1.21,5.66,6,Rate may be unstable,2021
+San Mateo,2.15,1.27,3.48,18,Rate is stable,2012
+Placer,2.14,1,4.29,9,Rate may be unstable,2014
+Tulare,2.06,1.01,4.08,9,Rate may be unstable,2012
+Sutter,2.05,1.11,8.46,2,Rate may be unstable,2017
+Alameda,2.03,1.43,2.83,37,Rate is stable,2017
+Plumas,2,2.18,37.35,1,"Rate is unstable, interpret with caution",2017
+Alameda,1.97,1.36,2.81,33,Rate is stable,2012
+Placer,1.94,0.83,4.02,8,Rate may be unstable,2018
+Calaveras,1.76,0.96,17.34,2,Rate may be unstable,2014
+San Bernardino,1.74,1.22,2.44,38,Rate is stable,2015
+Monterey,1.73,1.19,3.5,8,Rate is stable,2018
+Tulare,1.73,0.71,3.64,7,Rate may be unstable,2018
+San Bernardino,1.67,1.18,2.34,36,Rate is stable,2016
+Monterey,1.65,0.67,3.54,7,Rate may be unstable,2017
+Napa,1.64,0.9,6.04,2,"Rate is unstable, interpret with caution",2016
+Tuolumne,1.59,0.87,12.35,2,"Rate is unstable, interpret with caution",2019
+Marin,1.52,0.83,4.21,5,Rate may be unstable,2014
+Marin,1.5,1.08,4.5,3,Rate may be unstable,2015
+El Dorado,1.22,0.67,5.09,2,"Rate is unstable, interpret with caution",2013
+Kings,1.06,0.58,5.03,2,"Rate is unstable, interpret with caution",2019
+Tehama,1.02,1.11,10.25,1,Rate may be unstable,2019
+Calaveras,0.86,0.94,16.06,1,"Rate is unstable, interpret with caution",2017
+Solano,0.58,0.42,2,3,Rate may be unstable,2012
+Napa,0.44,0.48,4.06,1,"Rate is unstable, interpret with caution",2012
+Alpine,0,,990.98,0,,2022
+Sierra,0,,261.33,0,,2022
+Mono,0,,88.01,0,,2021
+Sierra,0,,273.02,0,,2021
+Alpine,0,,686.06,0,,2020
+Modoc,0,,70.88,0,,2020
+Mono,0,,38.89,0,,2020
+Sierra,0,,275.54,0,,2020
+Trinity,0,,51.18,0,,2020
+Alpine,0,,"1,408.23",0,,2019
+Modoc,0,,73.29,0,,2019
+Mono,0,,107.94,0,,2019
+Sierra,0,,244.23,0,,2019
+Alpine,0,,827.56,0,,2018
+Colusa,0,,24.71,0,,2018
+Del Norte,0,,18.48,0,,2018
+Mariposa,0,,38.86,0,,2018
+Modoc,0,,69.25,0,,2018
+Mono,0,,38.11,0,,2018
+Sierra,0,,231.49,0,,2018
+Alpine,0,,750.08,0,,2017
+Colusa,0,,24.67,0,,2017
+Glenn,0,,19.59,0,,2017
+Mono,0,,38.14,0,,2017
+Sierra,0,,240.26,0,,2017
+Tehama,0,,8.82,0,,2017
+Alpine,0,,931,0,,2016
+Modoc,0,,67.55,0,,2016
+Plumas,0,,37.51,0,,2016
+Sierra,0,,259.48,0,,2016
+Alpine,0,,879.4,0,,2015
+Colusa,0,,24.59,0,,2015
+Inyo,0,,32.43,0,,2015
+Mono,0,,38.72,0,,2015
+Sierra,0,,318.78,0,,2015
+Sutter,0,,5.32,0,,2015
+Alpine,0,,850.09,0,,2014
+Colusa,0,,24.43,0,,2014
+Inyo,0,,31.75,0,,2014
+Mono,0,,41.76,0,,2014
+Sierra,0,,280.05,0,,2014
+Alpine,0,,671.12,0,,2013
+Mono,0,,46.51,0,,2013
+Sierra,0,,235.8,0,,2013
+Siskiyou,0,,15.3,0,,2013
+Yuba,0,,7.14,0,,2013
+Alpine,0,,623.99,0,,2012
+Glenn,0,,18.97,0,,2012
+Inyo,0,,31.73,0,,2012
+Mono,0,,51.54,0,,2012
+Sierra,0,,235.8,0,,2012
+Yuba,0,,7.11,0,,2012
+Unknown,,,,72,,2022
+Unknown,,,,126,,2021
+Unknown,,,,113,,2020
+Unknown,,,,4,,2019
+Unknown,,,,77,,2018
+Unknown,,,,0,,2017
+Unknown,,,,0,,2016
+Unknown,,,,0,,2015
+Unknown,,,,0,,2014
+Unknown,,,,0,,2013
+Unknown,,,,0,,2012
