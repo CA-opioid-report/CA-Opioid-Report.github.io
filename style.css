@@ -1,0 +1,14 @@
+body {
+    /* Set background color */
+    background: linear-gradient(130deg,#4458a6 10%, #70d5ee 80%);
+
+     /* Center  vertically */
+    margin: 0;
+    min-height: 100vh;
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+  
+     /* Center  horizontally */
+    text-align: center;
+}
