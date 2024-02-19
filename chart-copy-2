@@ -58,7 +58,7 @@ var drawChart = function(percentNumber, grid_id_name, numCols, numRows){
 }
 
 //Execute function
-drawChart(0, "grid-chart", 10, 10);
+drawChart(100, "grid-chart", 10, 10);
 drawChart(100, "grid-2012", 10, 12);
 drawChart(100, "grid-2017", 10, 10);
 drawChart(50, "grid-2022", 10, 10);
