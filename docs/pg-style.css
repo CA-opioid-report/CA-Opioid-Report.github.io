@@ -1,0 +1,33 @@
+header {
+    font-family: 'Arial Narrow', 'sans-serif';
+    color: darkslategray;
+  
+     /* Center  horizontally */
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: darkslategray;
+}
+
+nav ul li {
+    float: left;
+    width: 50%;
+}
+
+nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Arial Narrow';
+}
+
+nav ul li a:hover {
+    background-color: deepskyblue;
+}
