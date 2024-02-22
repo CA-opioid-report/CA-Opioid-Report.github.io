@@ -1,16 +1,218 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <meta charset="UTF-8">
-        <link rel="stylesheet" href="style.css">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>CA Opioid Report</title>
-    </head>
+        <link href="main_page.css" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;500;600;700&display=swap" rel="stylesheet">  
+        <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js'></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.css' rel='stylesheet' />
+    
+        <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+        <link href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css" rel="stylesheet" />
+    
+    
+        <script src="https://unpkg.com/scrollreveal"></script>
+        <script src="https://d3js.org/d3.v6.js"></script>
+        <script src="histogram.js" defer></script>
+    
+      </head>
 
     <body>
-        <header>
-            <h1>CA Opioid Report</h1>
-            <a href="info.html">Click to continue.</a>
-        </header>
-    </body>
+        <!-- navigation bar top -->
+        <nav>
+          <div class="title"><a href="index.html">Campus Crimewatch</a></div>
+          <ul>
+            <li><a href="clery_act.html">Clery Act</a></li>
+            <li><a href="about_page.html">Recreate this site</a></li>
+            <!-- the below code will be added once other students 
+               create this site for their college campus --> 
+            <!-- <li><a href="other_campus.html">Other Campuses</a></li> -->
+          </ul>
+        </nav>
+    
+        <!-- scroll indicator bar-->
+        <div class="progress-container">
+          <div class="progress-bar" id="scrollBar"></div>
+        </div>
+        <script>
+          window.onscroll = function() {progressBar()};
+    
+          function progressBar() {
+            var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+            var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+            var scrolled = (winScroll / height) * 100;
+            document.getElementById("scrollBar").style.width = scrolled + "%";
+          }
+        </script>
+    
+        <!--hamburger bar side -->
+        <div role="navigation">
+          <div id="menuToggle">
+            <input type="checkbox" />
+              <span></span>
+              <span></span>
+              <span></span>
+              <ul id="menu">
+                <li><a href="#mapSection">Map Tool</a></li>
+                <li><a href="#dataSection">Data</a></li>
+                <li><a href="#narrativeSection">Student voices</a></li>
+                <!--the below section can be added if you want students to submit crime tips 
+                  to you about incidents they see on your site-->
+                <!--<a href="#tipsSection"><li>Your Story</li></a> -->
+                <li><a href="#inspoSection">About Us</a></li>
+              </ul>
+          </div>
+        </div>
+    
+      <!--This is where we linked the news ticker-->
+        <div class="news-ticker">
+          <ul id="ticker"></ul>
+          <script src="news_ticker.js" defer></script>
+        </div>
+    
+        <div class="scroll-indicator"></div>
+    
+        <section id="landing-page">
+          <div id="titles">
+            <p>welcome to</p>
+            <h1>Campus Crimewatch</h1>
+            <p><em>where college campus crime is made accessible</em></p>
+          </div>
+          <br>
+          <br>
+          <div id="appInfo">
+            <p>The dataset on this web app are daily crimes reported at <a>Stanford University</a> from <a>January 1, 2019 to April 18, 2023</a></p>
+            <p>This data was manually collected and there were only about 3 months of recorded crimes at the time. Therefore, the data for 2023 is incomplete.</p>
+          </div>
+        </section>
+    
+        <section class="map" id="mapSection">
+            <div class="dropdown-container">
+              <div class="dropdown" style="position:relative">
+                <button class="select" id="display-button">Last 30 Days</button>
+                <div class="drop-options" style="display:none;">
+                  <div class="drop-option" data-value="30">Last 30 Days</div>
+                  <div class="drop-option" data-value="60">Last 60 Days</div>
+                  <div class="drop-option" data-value="365">Current Year</div>
+                  <div class="drop-option" data-value="custom">Custom...</div>        
+                  <input type="text" id="dateRangePicker" placeholder="Select Date Range" style="display:none">
+                  <button id="applyCustomDate" style="display:none">APPLY</button>
+                  <div class="drop-option" data-value="all">All</div>
+                </div>
+              </div>
+            </div>
+    
+            <div id='mapbox' class="mapbox active"></div>
+    
+            <div class='map-overlay' id='legend'></div>
+          </div>
+    
+        </section>
+    
+        <script src="map.js" defer></script>
+      
+      <!--Here is the section for the summary statistic sentences & the histogram-->
+        <section id="dataSection">
+          <div class="data-background">
+            <div class="data-container">
+              <div class="text-container">
+              <section class="data" id="data_1">
+                <div class = "text-holder left">
+                    <div id="json-content"></div>
+                    <script type="module" src="sentences.js"></script>
+                </div>
+              </div>
+                <div class = "text-holder right">
+                  <div id="my_dataviz"></div>
+                  <div class="tooltip"></div>
+                    <div class="input-wrapper">
+                      <div class="options">
+                        <input type="radio" id="year" name="option" value="year" checked>
+                        <label for="year">Per Year</label>
+                        <input type="radio" id="month" name="option" value="month">
+                        <label for="month">Per Month</label>
+                    </div>
+                  </div>
+                </div>
+            </section>
+            </div>
+          </div>      
+        </section>
+        
+        <!--Here is the section for the student quotes-->
+        <section id="narrativeSection">
+          <div class="story-container">
+            <div class="story">
+              <h2> Student voices </h2>
+                <p>
+                  “You get the emails and crime alerts [and] keep a mental note of these alerts”' Stanford sophomore 
+                  Matt Villaysack said, when asked how he found out about campus crime. Villaysack isn’t the only 
+                  student who resonated with the disorganized method of campus safety information. 
+                </p>
+                <p> Stanford undergrad Ashna Khetan mentioned a similar method of staying up to date: “the alert 
+                  thing that happens with our email, and if I miss it then I see it on Fizz,” a college community 
+                  discussion app. For larger scale crimes, Khetan says “we hear about it for a few days.”
+                </p>
+                <p> 
+                  Other undergrads recognize that hearing about crime through email alerts keeps incidents and their updates under the radar.
+                </p>
+                <p class="quote">
+                  “It can be harmful when people aren’t informed, especially on sexual violence reports that 
+                  go unacknowledged.”
+                </p>
+                <p> says Lexi Kupor, another Stanford sophomore. Villaysack agreed with this sentiment, 
+                  and voiced that as a student living on campus,            
+                </p>
+                <p class="quote">  
+                  “It would be useful to see what crimes are likely to happen.”            
+                </p>
+                <p> 
+                  After seeing Campus Crimewatch, he shared his thoughts on how it provides an encompassing 
+                  overview of campus crime:
+                </p>
+                <p class="quote"> 
+                  “It's interesting to look at and be aware of, especially if you’re going out for parties and want 
+                  to know what areas are safe on campus to walk around.”
+                </p>
+            </div>
+          </div>
+        </section>
+    
+      <!--Here is the section for our mission statement-->
+        <section id="inspoSection">
+            <h2> Why we made Campus Crimewatch </h2>
+            <p>
+              Campus Crimewatch was developed at Stanford University by Isabel Paz Reyes Sieh, Özge Terzioğlu, and Tracy Zhang in Serdar Tumgoren’s Spring 2023 Building News Appplications class. 
+            </p>
+            <p>
+                As students, faculty, or staff of a college campus, we are bombarded with email or text notifications 
+              about the latest crimes near or on campus, as mandated by the Clery Act.
+            </p>
+            <p>
+              We want to be informed about crime on campus and feel safe at the place where we spend most of our time. 
+              A constant influx of texts and emails is a disorganized, ineffective way of getting an accurate view of campus crime trends. 
+            </p>
+            <p> 
+              Some universities bury their annual crime statistics in a 100-page yearly campus safety report.
+              Other universities share their daily crime log via a user-unfriendly map on their school website. 
+              It is likely that if you want a daily report of campus crimes, which universities are mandated to maintain, you will have to ask for it and it will be counted as a public records request. 
+            </p>
+            <p>
+              We wanted to create a centralized, accessible picture of crime and safety on college campuses. 
+            </p>
+            <p class="centered">Want to create this site for your college campus? Click on the <a href="about_page.html">Recreate this site</a> tab to get started.</p>
+            </i>
+        </section>
+    
+        <!--Make sure to link to your university's public safety resources!-->
+        <section id="resource_sect">
+          <p>
+            <em>If you need to report a crime or public safety concern, 
+            please call <a href="https://police.stanford.edu/">Stanford Department of Public Safety's</a> non-emergency line at (650) 329-2413</em>
+          </p>
+        </section>
+      </body>
+      <footer> 
+        <p> © Copyright 2023 Team NoName. All Rights Reserved. </p>
+      </footer>
 </html>
