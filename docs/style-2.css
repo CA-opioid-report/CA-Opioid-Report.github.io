@@ -1,0 +1,286 @@
+/* Color Swatches in Hex */
+.Incert-1-hex { color: #054a91; }
+.Incert-2-hex { color: #3e7cb1; }
+.Incert-3-hex { color: #81a4cd; }
+.Incert-4-hex { color: #dbe4ee; }
+.Incert-5-hex { color: #f17300; }
+.Incert-6-hex { color: #3d011d; }
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #81a4cd;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    color: #054a91;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-size: 24px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #81a4cd;
+}
+
+nav ul li {
+    float: left;
+    width: 33%;
+}
+
+nav ul li a {
+    display: block;
+    color: #054a91;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: lightblue;
+    transition: color 0.5s ease;
+}
+
+.progress-container {
+    position: fixed;
+    bottom: 10px;
+    z-index: 5;
+    width: 100%;
+    height: 6px;
+    background: #f17300
+}
+
+.progress-bar {
+    height: 6px;
+    background: #054a91;
+    width: 0%;
+}
+
+footer {
+    color:#054a91;
+    font-size: 10px;
+    margin: 50px auto;
+    padding: 10px;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+  }
+
+/*I
+
+#landing-page {
+  text-align: center;
+  margin: 50px auto;
+  max-width: 1200px;
+  position:relative;
+  top: 50px;
+}
+
+#landing-page #titles {
+  max-width: 800px;
+  margin-left: 85px;
+}
+
+#landing-page #titles h1 {
+  text-align: left;
+  font-size: 80px;
+  max-width: 800px;
+  line-height: 1;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color:#054a91;
+}
+
+#landing-page #titles p {
+  font-size: 20px;
+  line-height: 1.5;
+  color: #054a91;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+
+
+/* TEST */
+
+
+/*
+.data-background {
+  background-color: #b4b1b1;
+}
+  .data-container{
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  max-width: 1000px;
+  margin: 0 auto;
+  position: relative;
+  overflow: visible;
+}
+
+  .data {
+    flex:1;
+    margin: 0 20px;
+    line-height: 1em;
+  }
+
+  .data h1 {
+    color: #7DB581;
+    font-size: 50px;
+  }
+
+.story-container{
+  color:#424A4C;
+  display: flex;
+  justify-content: space-between;
+  margin:0 auto;
+  max-width: 1000px;
+}
+
+  .story {
+    flex:1;  
+    margin:50px 10px;  
+    padding: 0 100px;
+  }
+
+  .story h2 {
+    color: #7DB581;
+    font-size: 35px;
+  }
+
+  .story p {
+    color:#777;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 700px;
+    margin:20px auto;
+    text-align: left;
+    line-height: 1.5em;
+  }
+
+  .story .quote {
+    color:#7DB581;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 18px;
+    max-width: 700px;
+    padding-left: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+    line-height: 1.5em;
+  }
+
+  #inspoSection {
+    text-align: center;
+  }
+  #inspoSection h2 {
+    color: #7DB581;
+    font-size: 35px;
+  }
+
+  #inspoSection p {
+    color:#777;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 700px;
+    margin:20px auto;
+    text-align: left;
+    line-height: 1.5em; 
+  }
+
+  #inspoSection p a,
+  #resource_sect p a {
+    color: #7DB581;
+  }
+
+  #inspoSection p a:hover,
+  #resource_sect p a:hover {
+    color:#232323; 
+
+  }
+
+  #inspoSection p.centered {
+    text-align: center;
+    margin-top: 30px;
+    color:#7DB587
+  }
+
+  #resource_sect p {
+    color: #7DB581;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    line-height: 1.5em;
+    font-size: 15px;
+  }
+  
+#main-container{
+  min-height: calc(100vh - 50px);
+  padding-bottom: 50px;
+}
+
+/* scroll reveal stylings */
+/*
+.text-holder{
+  width: 50%;
+}
+
+#json-content{
+  flex-grow: 1
+}
+
+.json-sentence {
+  white-space: nowrap; 
+  overflow: visible;
+}
+
+.json-sentence:not(:last-child) {
+  margin-bottom: 0;
+}
+
+.text-holder.left{
+  float: left;
+  width: 70%;
+  text-align: left;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.text-holder.right{
+  float: right;
+  text-align: right;
+  justify-content: flex-end;
+  align-items: right;
+}
+
+.text-container {
+  width: 100%;
+  float: left;
+  text-align: left;
+  align-items: flex-start;
+  margin-left: -6.5%;
+  margin-top: 55px;
+  position: relative;
+}
+
+html.sr .load-hidden{
+  visibility: hidden;
+}
+
+.rest-of-sentence {
+  font-size: 1.1em; 
+}
+
+.emphasis {
+  font-weight: bold;
+  color: rgb(187 71 71);
+  font-size: 1.3em;
+  position: relative;
+}
+*/
