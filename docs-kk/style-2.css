@@ -73,6 +73,38 @@ footer {
     width: 100%;
   }
 
+  .county-label {
+    background-color: rgba(255, 255, 255, 0.976);
+    border: none;
+    box-shadow: none;
+    color: black;
+    font-size: 20px; 
+    text-align: center;
+}
+
+#filterTitle {
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+#countyTitle {
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+.controls-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    font-family: Arial;
+}
+
+#california-map {
+    background-color: transparent !important;
+}
+
 /*I
 
 #landing-page {

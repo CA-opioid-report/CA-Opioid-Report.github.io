@@ -10,8 +10,9 @@
         <script src="d3.min.js"></script>
         <script src="picto.js" defer></script>
 
-        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+        <script src="https://d3js.org/d3.v7.min.js"></script>
     </head>
 
     <body>
@@ -66,7 +67,22 @@
         </section>
         
         <section class="map" id="county-map">
-            <!-- code for map -->
+            <div class="controls-container">
+                <h3 id="countyTitle">Search Your County:</h3>
+                <div id="searchAndReset">
+                    <input type="text" id="countySearch" placeholder="Enter county name">
+                    <button id="searchButton">Search</button>
+                    <button id="resetButton">Reset</button>
+                </div>
+                <h3 id="filterTitle">Select County Hue Filter:</h3>
+                <select id="dataSelector">
+                    <option value="rate_of_overdose">Rate of Overdose</option>
+                    <option value="median_household_income">Median Household Income</option>
+                    <option value="opioid_prescriptions">Opioid Prescription Rate</option>
+                </select>
+            </div>
+            <div id="california-map" style="height: 600px;"></div>
+            <script src="map.js"></script>
         </section>
 
         <section class="chart" id="presciption-od-overlay">
