@@ -138,3 +138,11 @@ img {
   margin-right: auto;
   width: 50%;
 }
+
+.back-button{
+  color: #054a91;
+  text-align: left;
+  font-size: 20px;
+  margin-left: 60px;
+  text-decoration: none;
+}
