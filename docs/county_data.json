@@ -1,0 +1,408 @@
+[
+  {
+    "county": "Alameda",
+    "median_household_income": "122,159",
+    "opioid_death_over_time": 13.24,
+    "opioid_prescriptions": 236,
+    "rate_of_overdose": 13.24
+  },
+  {
+    "county": "Alpine",
+    "median_household_income": "101,125",
+    "opioid_death_over_time": 0,
+    "opioid_prescriptions": 108.2,
+    "rate_of_overdose": 0
+  },
+  {
+    "county": "Amador",
+    "median_household_income": "74,853",
+    "opioid_death_over_time": 14.55,
+    "opioid_prescriptions": 484.34,
+    "rate_of_overdose": 14.55
+  },
+  {
+    "county": "Butte",
+    "median_household_income": "64,426",
+    "opioid_death_over_time": 33.23,
+    "opioid_prescriptions": 474.16,
+    "rate_of_overdose": 33.23
+  },
+  {
+    "county": "Calaveras",
+    "median_household_income": "77,526",
+    "opioid_death_over_time": 15.14,
+    "opioid_prescriptions": 549.46,
+    "rate_of_overdose": 15.14
+  },
+  {
+    "county": "Colusa",
+    "median_household_income": "69,619",
+    "opioid_death_over_time": 19.05,
+    "opioid_prescriptions": 273.86,
+    "rate_of_overdose": 19.05
+  },
+  {
+    "county": "Contra Costa",
+    "median_household_income": "120,061",
+    "opioid_death_over_time": 15.91,
+    "opioid_prescriptions": 318,
+    "rate_of_overdose": 15.91
+  },
+  {
+    "county": "Del Norte",
+    "median_household_income": "61,149",
+    "opioid_death_over_time": 74.2,
+    "opioid_prescriptions": 491,
+    "rate_of_overdose": 74.2
+  },
+  {
+    "county": "El Dorado",
+    "median_household_income": "105,982",
+    "opioid_death_over_time": 20.11,
+    "opioid_prescriptions": 430.26,
+    "rate_of_overdose": 20.11
+  },
+  {
+    "county": "Fresno",
+    "median_household_income": "69,571",
+    "opioid_death_over_time": 13.3,
+    "opioid_prescriptions": 386.85,
+    "rate_of_overdose": 13.3
+  },
+  {
+    "county": "Glenn",
+    "median_household_income": "64,033",
+    "opioid_death_over_time": 22.76,
+    "opioid_prescriptions": 473.47,
+    "rate_of_overdose": 22.76
+  },
+  {
+    "county": "Humboldt",
+    "median_household_income": "57,883",
+    "opioid_death_over_time": 61.66,
+    "opioid_prescriptions": 447.98,
+    "rate_of_overdose": 61.66
+  },
+  {
+    "county": "Imperial",
+    "median_household_income": "57,310",
+    "opioid_death_over_time": 13.56,
+    "opioid_prescriptions": 296.53,
+    "rate_of_overdose": 13.56
+  },
+  {
+    "county": "Inyo",
+    "median_household_income": "63,417",
+    "opioid_death_over_time": 22.55,
+    "opioid_prescriptions": 445.13,
+    "rate_of_overdose": 22.55
+  },
+  {
+    "county": "Kern",
+    "median_household_income": "66,234",
+    "opioid_death_over_time": 34.22,
+    "opioid_prescriptions": 417.55,
+    "rate_of_overdose": 34.22
+  },
+  {
+    "county": "Kings",
+    "median_household_income": "64,368",
+    "opioid_death_over_time": 11.29,
+    "opioid_prescriptions": 407.76,
+    "rate_of_overdose": 11.29
+  },
+  {
+    "county": "Lake",
+    "median_household_income": "51,259",
+    "opioid_death_over_time": 55.46,
+    "opioid_prescriptions": 499.53,
+    "rate_of_overdose": 55.46
+  },
+  {
+    "county": "Lassen",
+    "median_household_income": "59,515",
+    "opioid_death_over_time": 37.16,
+    "opioid_prescriptions": 263.49,
+    "rate_of_overdose": 37.16
+  },
+  {
+    "county": "Los Angeles",
+    "median_household_income": "82,516",
+    "opioid_death_over_time": 16.53,
+    "opioid_prescriptions": 228.34,
+    "rate_of_overdose": 16.53
+  },
+  {
+    "county": "Madera",
+    "median_household_income": "76,920",
+    "opioid_death_over_time": 6.79,
+    "opioid_prescriptions": 335.43,
+    "rate_of_overdose": 6.79
+  },
+  {
+    "county": "Marin",
+    "median_household_income": "136,214",
+    "opioid_death_over_time": 15.79,
+    "opioid_prescriptions": 253.65,
+    "rate_of_overdose": 15.79
+  },
+  {
+    "county": "Mariposa",
+    "median_household_income": "60,021",
+    "opioid_death_over_time": 8.27,
+    "opioid_prescriptions": 334.51,
+    "rate_of_overdose": 8.27
+  },
+  {
+    "county": "Mendocino",
+    "median_household_income": "65,520",
+    "opioid_death_over_time": 54.91,
+    "opioid_prescriptions": 434.96,
+    "rate_of_overdose": 54.91
+  },
+  {
+    "county": "Merced",
+    "median_household_income": "66,164",
+    "opioid_death_over_time": 13.84,
+    "opioid_prescriptions": 405.28,
+    "rate_of_overdose": 13.84
+  },
+  {
+    "county": "Modoc",
+    "median_household_income": "54,962",
+    "opioid_death_over_time": 12.51,
+    "opioid_prescriptions": 289.16,
+    "rate_of_overdose": 12.51
+  },
+  {
+    "county": "Mono",
+    "median_household_income": "82,038",
+    "opioid_death_over_time": 8.54,
+    "opioid_prescriptions": 195.13,
+    "rate_of_overdose": 8.54
+  },
+  {
+    "county": "Monterey",
+    "median_household_income": "92,840",
+    "opioid_death_over_time": 6.82,
+    "opioid_prescriptions": 257.1,
+    "rate_of_overdose": 6.82
+  },
+  {
+    "county": "Napa",
+    "median_household_income": "100,318",
+    "opioid_death_over_time": 15.6,
+    "opioid_prescriptions": 324.23,
+    "rate_of_overdose": 15.6
+  },
+  {
+    "county": "Nevada",
+    "median_household_income": "78,401",
+    "opioid_death_over_time": 18.03,
+    "opioid_prescriptions": 409.08,
+    "rate_of_overdose": 18.03
+  },
+  {
+    "county": "Orange",
+    "median_household_income": "106,209",
+    "opioid_death_over_time": 20.62,
+    "opioid_prescriptions": 262.07,
+    "rate_of_overdose": 20.62
+  },
+  {
+    "county": "Placer",
+    "median_household_income": "105,445",
+    "opioid_death_over_time": 13.63,
+    "opioid_prescriptions": 387.29,
+    "rate_of_overdose": 13.63
+  },
+  {
+    "county": "Plumas",
+    "median_household_income": "67,885",
+    "opioid_death_over_time": 18.66,
+    "opioid_prescriptions": 354.31,
+    "rate_of_overdose": 18.66
+  },
+  {
+    "county": "Riverside",
+    "median_household_income": "86,748",
+    "opioid_death_over_time": 23.56,
+    "opioid_prescriptions": 342.24,
+    "rate_of_overdose": 23.56
+  },
+  {
+    "county": "Sacramento",
+    "median_household_income": "84,211",
+    "opioid_death_over_time": 14.9,
+    "opioid_prescriptions": 382.79,
+    "rate_of_overdose": 14.9
+  },
+  {
+    "county": "San Benito",
+    "median_household_income": "111,544",
+    "opioid_death_over_time": 18.73,
+    "opioid_prescriptions": 257.34,
+    "rate_of_overdose": 18.73
+  },
+  {
+    "county": "San Bernardino",
+    "median_household_income": "79,091",
+    "opioid_death_over_time": 17.36,
+    "opioid_prescriptions": 387.7,
+    "rate_of_overdose": 17.36
+  },
+  {
+    "county": "San Diego",
+    "median_household_income": "98,928",
+    "opioid_death_over_time": 22.83,
+    "opioid_prescriptions": 273.16,
+    "rate_of_overdose": 22.83
+  },
+  {
+    "county": "San Francisco",
+    "median_household_income": "136,692",
+    "opioid_death_over_time": 33.65,
+    "opioid_prescriptions": 178.99,
+    "rate_of_overdose": 33.65
+  },
+  {
+    "county": "San Joaquin",
+    "median_household_income": "86,056",
+    "opioid_death_over_time": 14.45,
+    "opioid_prescriptions": 367.55,
+    "rate_of_overdose": 14.45
+  },
+  {
+    "county": "San Luis Obispo",
+    "median_household_income": "90,216",
+    "opioid_death_over_time": 33.92,
+    "opioid_prescriptions": 318.82,
+    "rate_of_overdose": 33.92
+  },
+  {
+    "county": "San Mateo",
+    "median_household_income": "145,388",
+    "opioid_death_over_time": 10.65,
+    "opioid_prescriptions": 184.93,
+    "rate_of_overdose": 10.65
+  },
+  {
+    "county": "Santa Barbara",
+    "median_household_income": "90,894",
+    "opioid_death_over_time": 10.51,
+    "opioid_prescriptions": 310.52,
+    "rate_of_overdose": 10.51
+  },
+  {
+    "county": "Santa Clara",
+    "median_household_income": "150,839",
+    "opioid_death_over_time": 8.6,
+    "opioid_prescriptions": 173.68,
+    "rate_of_overdose": 8.6
+  },
+  {
+    "county": "Santa Cruz",
+    "median_household_income": "102,146",
+    "opioid_death_over_time": 28.92,
+    "opioid_prescriptions": 291.57,
+    "rate_of_overdose": 28.92
+  },
+  {
+    "county": "Shasta",
+    "median_household_income": "68,276",
+    "opioid_death_over_time": 29.89,
+    "opioid_prescriptions": 498.97,
+    "rate_of_overdose": 29.89
+  },
+  {
+    "county": "Sierra",
+    "median_household_income": "61,108",
+    "opioid_death_over_time": 0,
+    "opioid_prescriptions": 206.54,
+    "rate_of_overdose": 0
+  },
+  {
+    "county": "Siskiyou",
+    "median_household_income": "53,898",
+    "opioid_death_over_time": 53.33,
+    "opioid_prescriptions": 379.18,
+    "rate_of_overdose": 53.33
+  },
+  {
+    "county": "Solano",
+    "median_household_income": "92,959",
+    "opioid_death_over_time": 17.43,
+    "opioid_prescriptions": 376.31,
+    "rate_of_overdose": 17.43
+  },
+  {
+    "county": "Sonoma",
+    "median_household_income": "96,830",
+    "opioid_death_over_time": 20.34,
+    "opioid_prescriptions": 374.49,
+    "rate_of_overdose": 20.34
+  },
+  {
+    "county": "Stanislaus",
+    "median_household_income": "75,886",
+    "opioid_death_over_time": 24.52,
+    "opioid_prescriptions": 538.28,
+    "rate_of_overdose": 24.52
+  },
+  {
+    "county": "Sutter",
+    "median_household_income": "65,018",
+    "opioid_death_over_time": 22.68,
+    "opioid_prescriptions": 472.26,
+    "rate_of_overdose": 22.68
+  },
+  {
+    "county": "Tehama",
+    "median_household_income": "58,884",
+    "opioid_death_over_time": 34.34,
+    "opioid_prescriptions": 389.7,
+    "rate_of_overdose": 34.34
+  },
+  {
+    "county": "Trinity",
+    "median_household_income": "47,317",
+    "opioid_death_over_time": 11.66,
+    "opioid_prescriptions": 491.39,
+    "rate_of_overdose": 11.66
+  },
+  {
+    "county": "Tulare",
+    "median_household_income": "64,722",
+    "opioid_death_over_time": 12.3,
+    "opioid_prescriptions": 423.18,
+    "rate_of_overdose": 12.3
+  },
+  {
+    "county": "Tuolumne",
+    "median_household_income": "70,432",
+    "opioid_death_over_time": 21.71,
+    "opioid_prescriptions": 512.28,
+    "rate_of_overdose": 21.71
+  },
+  {
+    "county": "Ventura",
+    "median_household_income": "102,569",
+    "opioid_death_over_time": 24.42,
+    "opioid_prescriptions": 331.4,
+    "rate_of_overdose": 24.42
+  },
+  {
+    "county": "Yolo",
+    "median_household_income": "83,875",
+    "opioid_death_over_time": 12.22,
+    "opioid_prescriptions": 315.41,
+    "rate_of_overdose": 12.22
+  },
+  {
+    "county": "Yuba",
+    "median_household_income": "65,052",
+    "opioid_death_over_time": 27.91,
+    "opioid_prescriptions": 536.41,
+    "rate_of_overdose": 27.91
+  }
+]
