@@ -92,16 +92,21 @@ footer p {
     text-align: left;
 }
 
+.map {
+    background-color: #dbe4ee !important;
+}
+
 .controls-container {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     gap: 5px;
+    background-color: #dbe4ee;
 }
 
 #california-map {
-    background-color: transparent !important;
+    background-color: #dbe4ee !important;
 }
 
 p {
@@ -123,12 +128,9 @@ h2 {
   margin-left: 60px;
 }
 
-#chart {
-  color: #054a91;
-  padding-top: 5px;
-  padding-bottom: 5px;
+
+.chart {
   text-align: left;
-  font-size: 24px;
   margin-left: 60px;
 }
 

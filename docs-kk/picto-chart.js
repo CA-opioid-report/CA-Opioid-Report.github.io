@@ -10,8 +10,8 @@ var drawChart = function(percentNumber, grid_id_name, numCols, numRows){
 	var r = 12;
 
 	// Width and height of the SVG
-	const width = 500;
-	const height = 500;
+	const width = 400;
+	const height = 400;
 
 	// Create an SVG with width and height
 	var svg = d3.select(grid_id)
@@ -44,7 +44,7 @@ var drawChart = function(percentNumber, grid_id_name, numCols, numRows){
 
 	// Container to hold the grid
 	var container = svg.append("g")
-		.attr("transform", "translate(135,130)");
+		.attr("transform", "translate(15,50)");
 	
 	container.selectAll("circle")
 			.data(data)
