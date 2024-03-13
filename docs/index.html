@@ -43,12 +43,35 @@
             }
 
             .county-label {
-                background-color: transparent;
+                background-color: rgba(255, 255, 255, 0.976);
                 border: none;
                 box-shadow: none;
                 color: black;
-                font-size: 50px; 
+                font-size: 20px; 
                 text-align: center;
+            }
+
+            #filterTitle {
+                margin-bottom: 5px;
+                text-align: left;
+            }
+
+            #countyTitle {
+                margin-bottom: 5px;
+                text-align: left;
+            }
+
+            .controls-container {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                gap: 5px;
+                font-family: Arial;
+            }
+
+            #california-map {
+                background-color: transparent !important;
             }
         </style>
     </head>
@@ -64,6 +87,21 @@
                 <li><a href="resources.html">Resources</a></li>
             </ul>
         </nav>
+
+        <div class="controls-container">
+            <h3 id="countyTitle">Search Your County:</h3>
+            <div id="searchAndReset">
+                <input type="text" id="countySearch" placeholder="Enter county name">
+                <button id="searchButton">Search</button>
+                <button id="resetButton">Reset</button>
+            </div>
+            <h3 id="filterTitle">Select County Hue Filter:</h3>
+            <select id="dataSelector">
+                <option value="rate_of_overdose">Rate of Overdose</option>
+                <option value="median_household_income">Median Household Income</option>
+                <option value="opioid_prescriptions">Opioid Prescription Rate</option>
+            </select>
+        </div>
         <div id="california-map" style="height: 600px;"></div>
         <script src="map.js"></script>
     
