@@ -55,26 +55,37 @@
         </section>
 
         <section id="chart-title">
-           <h2>Opioid Prescriptions Over Time</h2> 
+           <h2>Opioid prescriptions have been decreasing.</h2> 
         </section>
 
         <section class="chart" id="prescription">
-            <div id='grid-container'>
-                <div id='grid-chart'></div>
-            </div>
-            <div id='grid-container'>
-                <div id='grid-2012'></div>
-            </div>
-            <div id='grid-container'>
-                <div id='grid-2017'></div>
-            </div>
-            <div id='grid-container'>
-                <div id='grid-2022'></div>
+            <div class="grid-container">
+                <!--
+                <div class="grid-item">
+                    <div id='grid-chart'></div>
+                </div>
+                <div class="grid-item">
+                    <p>Shown to the left will be the rate of opioid prescriptions per 1,000 residents in California.</p>
+                </div>
+                -->
+                <div class="grid-item">
+                    <div id='grid-2012'></div>
+                </div> 
+                <div class="grid-item" id="grid-text">
+                    <p>In 2012, for every 1,000 residents, there were about 600 opioid prescriptions being given.</p>
+                </div>
+                <div class="grid-item">
+                    <div id='grid-2022'></div>
+                </div>
+                <div class="grid-item" id="grid-text">
+                    <p>Ten years later, that rate of prescriptions has halved to around 300.</p>
+                </div>
             </div>
         </section>
 
+
         <section id="county-example">
-            <h2>County Example</h2>
+            <h2>Yet, opioid overdoses have been on the rise.</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         </section>
@@ -82,7 +93,7 @@
         <br> 
         <section id="analysis">
             <!-- code for analysis -->
-            <img src="overlay-graphic.png">
+            <div class="flourish-embed flourish-chart" data-src="visualisation/17149282"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
         </section>
 
     </body>

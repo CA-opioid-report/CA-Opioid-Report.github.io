@@ -134,11 +134,6 @@ h2 {
 }
 
 
-.chart {
-  text-align: left;
-  margin-left: 60px;
-}
-
 img {
   display: block;
   margin-left: auto;
@@ -152,4 +147,24 @@ img {
   font-size: 30px;
   margin-left: 60px;
   text-decoration: none;
+}
+
+.grid-container {
+    justify-content: center;
+    display: grid;
+    grid-template-columns: 400px 400px;
+    grid-template-rows: 350px 350px;
+}
+
+#grid-text {
+    padding-top: 15%;
+}
+
+
+.flourish-embed {
+    width: 70%;
+    height: 600px;
+    margin: 0 auto;
+    padding: 0;
+    border: none;
 }
