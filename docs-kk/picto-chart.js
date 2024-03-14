@@ -4,7 +4,7 @@ var drawChart = function(percentNumber, grid_id_name, numCols, numRows){
 
 	// Setting up fonts and style elements for circles
 	var fontFamily = "helvetica";
-	var fill = "white";
+	var fill = "#054a91";
 	var inactiveOpacity = 0.20;
 	var svgBackgroundColor = 'None';
 	var r = 12;

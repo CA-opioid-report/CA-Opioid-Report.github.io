@@ -4,11 +4,13 @@
 .Incert-3-hex { color: #81a4cd; }
 .Incert-4-hex { color: #dbe4ee; }
 .Incert-5-hex { color: #f17300; }
-.Incert-6-hex { color: #3d011d; }
+.Incert-6-hex { color: #fcfcf2; }
+.Incert-7-hex { color: #f2eacc; }
+.Incert-6-hex { color: #266087; }
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #81a4cd;
+    background-color: #fcfcf2;
     overflow-x: hidden;
     margin: 0;
     padding: 0;
@@ -24,10 +26,9 @@ header {
 
 nav ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
     overflow: hidden;
-    background-color: #81a4cd;
+    justify-content: center;
+    display: flex;
 }
 
 nav ul li {
@@ -73,7 +74,7 @@ footer p {
     width: 100%;
   }
 
-  .county-label {
+.county-label {
     background-color: rgba(255, 255, 255, 0.976);
     border: none;
     box-shadow: none;
@@ -93,7 +94,7 @@ footer p {
 }
 
 .map {
-    background-color: #dbe4ee !important;
+    background-color: #fcfcf2 !important;
 }
 
 .controls-container {
@@ -102,30 +103,34 @@ footer p {
     align-items: center;
     justify-content: center;
     gap: 5px;
-    background-color: #dbe4ee;
 }
 
 #california-map {
-    background-color: #dbe4ee !important;
+    background-color: #fcfcf2 !important;
 }
 
 p {
-  color: #054a91;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  text-align: justify;
-  font-size: 14px;
-  margin-left: 60px;
-  margin-right: 60px;
+    color: #054a91;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: justify;
+    font-size: 14px;
+    margin: 60px auto;
+    max-width: 900px;
 }
 
 h2 {
-  color: #054a91;
+    color: #054a91;
+    display: flex;
+    justify-content: center;
+    position: relative;
+
+  /*color: #054a91;
   padding-top: 5px;
   padding-bottom: 5px;
   text-align: left;
   font-size: 24px;
-  margin-left: 60px;
+  margin-left: 60px auto; */
 }
 
 
@@ -144,7 +149,7 @@ img {
 .back-button{
   color: #054a91;
   text-align: left;
-  font-size: 20px;
+  font-size: 30px;
   margin-left: 60px;
   text-decoration: none;
 }

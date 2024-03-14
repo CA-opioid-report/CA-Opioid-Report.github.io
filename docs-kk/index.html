@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <link href="style-2.css" rel="stylesheet" type="text/css">
+        <link href="style.css" rel="stylesheet" type="text/css">
         <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
         <script src="d3.min.js"></script>
@@ -23,7 +23,7 @@
         <!-- navigation bar -->
         <nav>
             <ul>
-                <li><a href="index-kk.html">Home</a></li>
+                <li><a href="map.html">Mapping the Crisis</a></li>
                 <li><a href="https://narcan.com#how-to-administer" target="_blank">Narcan Guide</a></li>
                 <li><a href="about.html">About</a></li>
             </ul>
@@ -47,21 +47,13 @@
 
         <div class="scroll-indicator"></div>
 
-        <br>
-        <section id="background-info-title">
-            <h2>Background Information</h2>
-        </section>
-
         <section id="background-info">
             <!-- code for background -->
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            <br>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            <br>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         </section>
 
-        <br>
         <section id="chart-title">
            <h2>Opioid Prescriptions Over Time</h2> 
         </section>
@@ -80,30 +72,12 @@
                 <div id='grid-2022'></div>
             </div>
         </section>
-        
-        <section class="map" id="county-map">
-            <div class="controls-container">
-                <h3 id="countyTitle">Search Your County:</h3>
-                <div id="searchAndReset">
-                    <input type="text" id="countySearch" placeholder="Enter county name">
-                    <button id="searchButton">Search</button>
-                    <button id="resetButton">Reset</button>
-                </div>
-                <h3 id="filterTitle">Select County Hue Filter:</h3>
-                <select id="dataSelector">
-                    <option value="rate_of_overdose">Rate of Overdose</option>
-                    <option value="median_household_income">Median Household Income</option>
-                    <option value="opioid_prescriptions">Opioid Prescription Rate</option>
-                </select>
-            </div>
-            <div id="california-map" style="height: 600px;"></div>
-            <script src="map.js"></script>
-        </section>
 
-        <section class="chart" id="presciption-od-overlay">
-            <!-- code for spaghetti chart -->
+        <section id="county-example">
+            <h2>County Example</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         </section>
-
     
         <br> 
         <section id="analysis">
