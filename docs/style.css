@@ -1,0 +1,170 @@
+/* Color Swatches in Hex */
+.Incert-1-hex { color: #054a91; }
+.Incert-2-hex { color: #3e7cb1; }
+.Incert-3-hex { color: #81a4cd; }
+.Incert-4-hex { color: #dbe4ee; }
+.Incert-5-hex { color: #f17300; }
+.Incert-6-hex { color: #fcfcf2; }
+.Incert-7-hex { color: #f2eacc; }
+.Incert-6-hex { color: #266087; }
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #fcfcf2;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    color: #054a91;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-size: 24px;
+}
+
+nav ul {
+    list-style-type: none;
+    overflow: hidden;
+    justify-content: center;
+    display: flex;
+}
+
+nav ul li {
+    float: left;
+    width: 33%;
+}
+
+nav ul li a {
+    display: block;
+    color: #054a91;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: lightblue;
+    transition: color 0.5s ease;
+}
+
+.progress-container {
+    position: fixed;
+    bottom: 10px;
+    z-index: 5;
+    width: 100%;
+    height: 6px;
+    background: #f17300
+}
+
+.progress-bar {
+    height: 6px;
+    background: #054a91;
+    width: 0%;
+}
+
+footer p {
+    color:#054a91;
+    font-size: 10px;
+    margin: 50px auto;
+    padding: 10px;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+  }
+
+.county-label {
+    background-color: rgba(255, 255, 255, 0.976);
+    border: none;
+    box-shadow: none;
+    color: black;
+    font-size: 20px; 
+    text-align: center;
+}
+
+#filterTitle {
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+#countyTitle {
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+.map {
+    background-color: #fcfcf2 !important;
+}
+
+.controls-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+#california-map {
+    background-color: #fcfcf2 !important;
+}
+
+p {
+    color: #054a91;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: justify;
+    font-size: 14px;
+    margin: 60px auto;
+    max-width: 900px;
+}
+
+h2 {
+    color: #054a91;
+    display: flex;
+    justify-content: center;
+    position: relative;
+
+  /*color: #054a91;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: left;
+  font-size: 24px;
+  margin-left: 60px auto; */
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.back-button{
+  color: #054a91;
+  text-align: left;
+  font-size: 30px;
+  margin-left: 60px;
+  text-decoration: none;
+}
+
+.grid-container {
+    justify-content: center;
+    display: grid;
+    grid-template-columns: 400px 400px;
+    grid-template-rows: 350px 350px;
+}
+
+#grid-text {
+    padding-top: 15%;
+}
+
+
+.flourish-embed {
+    width: 70%;
+    height: 600px;
+    margin: 0 auto;
+    padding: 0;
+    border: none;
+}
