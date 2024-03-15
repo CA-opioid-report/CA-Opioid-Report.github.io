@@ -111,12 +111,16 @@ footer p {
 
 p {
     color: #054a91;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    /*padding-top: 5px;
+    padding-bottom: 5px;*/
     text-align: justify;
     font-size: 14px;
     margin: 60px auto;
     max-width: 900px;
+}
+
+a:hover {
+    color: #81a4cd;
 }
 
 h2 {
@@ -141,12 +145,22 @@ img {
   width: 50%;
 }
 
+/*
 .back-button{
   color: #054a91;
   text-align: left;
   font-size: 30px;
-  margin-left: 60px;
+  margin-left: 60px auto;
   text-decoration: none;
+}*/
+
+.back-button {
+    position: absolute;
+    left: 60px;
+    top: 60px;
+    text-decoration: none;
+    color: #054a91;
+    font-size: 30px;
 }
 
 .grid-container {
@@ -157,7 +171,7 @@ img {
 }
 
 #grid-text {
-    padding-top: 15%;
+    padding-top: 20%;
 }
 
 
@@ -167,4 +181,11 @@ img {
     margin: 0 auto;
     padding: 0;
     border: none;
+}
+
+#about-info {
+    text-align: justify;
+    font-size: 14px;
+    margin: 60px auto;
+    max-width: 500px;
 }
